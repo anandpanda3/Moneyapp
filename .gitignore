@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+db.sqlite3
+new_env/
+.env.env
+.env
+node_modules/
+database_backups/
+Temp files/
